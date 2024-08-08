@@ -1,7 +1,6 @@
-[# Disney Clone
+# Disney Clone
 
-![Disney Clone](https://i.ibb.co/sK0gZK7/screenshot.png)
-
+<img src="https://i.ibb.co/vHHWy7K/DISNEY.png" alt="Disney Clone" width="400"/>
 
 Um clone da Disney+ utilizando a API da MovieDB. Este projeto visa replicar o layout e as funcionalidades da plataforma de streaming Disney+, permitindo que os usuários visualizem filmes e séries.
 
@@ -24,4 +23,3 @@ Um clone da Disney+ utilizando a API da MovieDB. Este projeto visa replicar o la
 
    ```bash
    git clone https://github.com/mathiasfuhr/Disney-Clone.git
-](https://i.ibb.co/vHHWy7K/DISNEY.png)
